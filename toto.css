@@ -1,0 +1,48 @@
+body{
+    background-image: url(background.png);
+    background-repeat: repeat-y;
+}
+#header{
+    background-color: rgba(0, 0, 0, 0.671);
+    color: rgb(255, 255, 0);
+    padding-left: 55px;
+    font-size: 43px;
+    font-family: 'Rye', cursive;;
+}
+#chai{
+    font-size: 70px;
+    font-family: 'Ewert', cursive;
+    font-family: 'Tillana', cursive;
+}
+.headtop{
+    color: whitesmoke;
+}
+#img{
+    height: 100px;
+
+}
+#list{
+    color: rgb(0, 255, 0);
+    background-color: rgba(66, 63, 71, 0.596);
+}
+#fresh{
+    height: 35px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+#menu{
+    height: 250px;
+}
+.hmenu{
+    background-color: rgba(0, 0, 0, 0.603);
+    color: rgb(255, 251, 0);
+}
+#div{
+    background-color: rgba(248, 82, 248, 0.616);
+}
+#b{
+    color: yellow;
+}
+.homeframe{
+    height: 250px;
+}
